@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7vZz81lNB2t5i00k4PyCwyyu85BdkUMg53Dso2M5wQIPFUrHOhp83zBmsjkLgGfi0txF6GAVnxTJjXZ+T491aQ==",
+  "success": true,
+  "projectFilePath": "/Users/henriquetelles/Projects/CleanArchitecture/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/henriquetelles/.nuget/packages/fluentvalidation/11.5.2/fluentvalidation.11.5.2.nupkg.sha512",
+    "/Users/henriquetelles/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.2/fluentvalidation.dependencyinjectionextensions.11.5.2.nupkg.sha512",
+    "/Users/henriquetelles/.nuget/packages/mediatr/12.0.1/mediatr.12.0.1.nupkg.sha512",
+    "/Users/henriquetelles/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/henriquetelles/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

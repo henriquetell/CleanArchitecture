@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Iez1mqIvktRwD/gVM6mdpwYST8qBQvLoo+EKfJBZZ2k73gdlHOUnviDvRHj9vERZY+llHh5/lDchjYdW7VeNQ==",
+  "success": true,
+  "projectFilePath": "/Users/henriquetelles/Projects/CleanArchitecture/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/henriquetelles/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "/Users/henriquetelles/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
